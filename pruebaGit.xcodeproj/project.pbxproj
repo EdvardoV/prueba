@@ -47,6 +47,7 @@
 		1FF3324A1BEDB5930024B6DA /* pruebaGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pruebaGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FF3324E1BEDB5930024B6DA /* pruebaGitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pruebaGitUITests.swift; sourceTree = "<group>"; };
 		1FF332501BEDB5930024B6DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1FF3325C1BEE430F0024B6DA /* JuegodeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = JuegodeMemoria.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		1FF332221BEDB5920024B6DA = {
 			isa = PBXGroup;
 			children = (
+				1FF3325C1BEE430F0024B6DA /* JuegodeMemoria.playground */,
 				1FF3322D1BEDB5930024B6DA /* pruebaGit */,
 				1FF332421BEDB5930024B6DA /* pruebaGitTests */,
 				1FF3324D1BEDB5930024B6DA /* pruebaGitUITests */,
@@ -483,6 +485,7 @@
 				1FF332551BEDB5940024B6DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1FF332561BEDB5940024B6DA /* Build configuration list for PBXNativeTarget "pruebaGitTests" */ = {
 			isa = XCConfigurationList;
@@ -491,6 +494,7 @@
 				1FF332581BEDB5940024B6DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1FF332591BEDB5940024B6DA /* Build configuration list for PBXNativeTarget "pruebaGitUITests" */ = {
 			isa = XCConfigurationList;
@@ -499,6 +503,7 @@
 				1FF3325B1BEDB5940024B6DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
